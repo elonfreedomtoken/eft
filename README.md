@@ -100,4 +100,37 @@ Kalman filter will act as a loose trailing metric that will adjust fairly quickl
 current environment. The idea is to allow for it to work without many data pointsbut also to be robust enough to allow for a pretty good estimation of the next burn
 rate.
 
-![overview](https://user-images.githubusercontent.com/129238833/228604227-a37669c1-cc99-4c58-abf9-cbfa511b289a.png)
+<h4>Further fine tuned breakdown</h4>​
+
+![infographicannotated](https://user-images.githubusercontent.com/129238833/228604719-5b4778bf-3682-4e28-9948-ffdc3ca482ad.png)
+A) Total initial supply---10,000,000
+B) ICO maximum amount allocated from initial supply--- 2,500,000{see
+ICO}. The initial price is 128 EFT == 1 METIS.
+C) Any person may tweet #EFT-ICO on twitter to contribute to the
+Burning of up to 1,000,000 tokens.{see burn phase 1 for details}
+D) After one month from the publishing of the contract, the ICO will
+end
+E) Any portion of 2,500,000 million tokens left unsold will be
+burned.
+F) Half of the funds received from the ICO will be used to create a
+Liquidity Pool on Netswap, hard-coded in the contract. The Liquidity
+Pool will begin with a 50% price increase 84 EFT == 1 METIS. This is to
+encourage buying during the ICO period.
+G) A Sold-Ratio will be calculated and used to Burn the remaining
+supply. {See Sold-Ratio}
+H) The second Burn Phase begins immediately and will last 4 months.
+I) Voting begins in which the community may vote on what hashtags
+they want to promote.{See voting}
+J) The Burning of tokens will be based on the number of tweets of
+the voted upon hashtag.{see Burn phase 2}
+K) After 4 months, the second Burn Phase will end
+L) The Third Burn Phase will begin and last 6 months. It will have
+the same the structure as the Second Phase, but depending on how the
+Second Phase proceeded, may have a different burn algorithm.
+M)Voting will be the same as the Second Phase
+N)Burning will be the same, barring a change to the algorithm.
+O)After 6 months, the Third Phase will end.
+P)Staking begins and will be permanent. {See staking}
+Q)These lines indicate that whatever tokens apportioned for the burn
+phase that are not burned shall trickle down into staking, thus
+increasing the pool of tokens that may be earned through staking.
