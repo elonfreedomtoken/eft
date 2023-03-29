@@ -99,3 +99,5 @@ will use a Kalman filter to find the expected number of tweets or E[tweets]. The
 Kalman filter will act as a loose trailing metric that will adjust fairly quickly to the
 current environment. The idea is to allow for it to work without many data pointsbut also to be robust enough to allow for a pretty good estimation of the next burn
 rate.
+
+![overview](https://user-images.githubusercontent.com/129238833/228604227-a37669c1-cc99-4c58-abf9-cbfa511b289a.png)
